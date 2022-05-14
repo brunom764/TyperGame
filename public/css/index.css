@@ -1,0 +1,35 @@
+*{
+	background-color: #066163;
+	color: #F2F2F2;
+	font-family: 'Nova Mono', monospace;
+}
+
+.card{
+	display: inline-block;
+	vertical-align: top;
+	width: 100%;
+	text-align: center;
+}
+
+.card-text{
+	color:#066163 !important;
+}
+
+
+#botao-jogue{
+	width: 150px;
+	display: block;
+	margin: 50px auto;
+}
+
+.imagem-jogo {
+	border: 2px solid gray;
+}
+
+.slider {
+	height: auto;
+}
+
+.slick-prev:before, .slick-next:before{
+	color: black;
+}
