@@ -79,5 +79,6 @@ body {
     }
     .campo-digitacao{
         height: 200px;
+	font-size: 35px
     }
 }
