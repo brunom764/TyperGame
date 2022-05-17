@@ -74,6 +74,9 @@ body {
 }
 
 @media screen and (max-width:1000px) {
+    *{
+        padding: .75rem;
+    }
     .campo-digitacao{
         height: 200px;
     }
