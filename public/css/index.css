@@ -6,7 +6,7 @@
 
 .tituloPrincipal{
     text-shadow:15px 15px 10px black;
-    margin: 1.5rem;
+    margin-bottom: 2.5rem;
 }
 
 .card{
@@ -14,7 +14,7 @@
 	vertical-align: top;
 	width: 100%;
 	text-align: center;
-	margin: 1.5rem;
+	margin-bottom: 2rem;
 }
 
 .card-text{
