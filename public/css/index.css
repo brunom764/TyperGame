@@ -4,6 +4,10 @@
 	font-family: 'Nova Mono', monospace;
 }
 
+.tituloPrincipal{
+    text-shadow:15px 15px 10px black;
+}
+
 .card{
 	display: inline-block;
 	vertical-align: top;
