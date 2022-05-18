@@ -7,7 +7,9 @@
 .campo-digitacao {
     font-size: 20px;
     height: 150px;
-    border: 3px solid black;
+    border: 3px solid rgba(0, 0, 0, 0.719);
+    box-shadow: 10px 10px 10px black;
+    margin: 1.5rem;
 }
 
 .frase {
@@ -17,6 +19,7 @@
 
 .campo-desativado {
     background-color: lightgray;
+    margin: 1.5rem;
 }
 
 .icones {
